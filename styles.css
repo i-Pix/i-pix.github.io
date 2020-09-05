@@ -23,6 +23,7 @@ nav {
 .logo {
   width: 50%;
   height: 100px;
+  
 }
 
 .logo h1 {
@@ -60,6 +61,7 @@ section {
   height: auto;
   overflow: hidden;
   margin-top: 20px;
+  
 }
 
 .leftside img {
@@ -142,6 +144,9 @@ button:hover {
 img.avatar {
   width: 40%;
   border-radius: 50%;
+  size: 50px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .container {
@@ -151,6 +156,20 @@ img.avatar {
 span.psw {
   float: right;
   padding-top: 16px;
+}
+
+a:link, a:visited {
+  background-color: #232526;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+a:hover, a:active {
+  background-color: #414345;
 }
 
 
