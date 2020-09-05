@@ -1,0 +1,8 @@
+.grad {
+    background-image: linear-gradient(to right, #ffefba, #ffffff);
+  }
+#nav1 {
+    background-color: black; 
+    opacity: 0.8; 
+    filter: (opacity=50);
+  }
