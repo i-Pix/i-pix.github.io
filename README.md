@@ -57,14 +57,14 @@ We believe that the old fashioned ways of teaching with blackboard should be cha
 
 # Technologies used 🛠️
 
--[HTML]
--[CSS]
--[Javascript]
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://styled-components.com/)
+- [Javascript](https://www.javascript.com/)
 
 # Links 
 
--[Repository](https://github.com/i-Pix/i-pix.github.io)
--[Live](https://i-pix.github.io/)
+- [Repository](https://github.com/i-Pix/i-pix.github.io)
+- [Live](https://i-pix.github.io/)
 
 # DEMO Video 
 
