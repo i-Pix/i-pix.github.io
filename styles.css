@@ -5,6 +5,7 @@
   font-family: "Montserrat", sans-serif;
 }
 
+
 .site-header {
   width: 100%;
   height: 100vh;
@@ -167,10 +168,7 @@ a:link, a:visited {
   display: inline-block;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
- * {cursor: url(https://ani.cursors-4u.net/cursors/cur-13/cur1151.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1151.png), auto !important;} 
-a:hover, a:active {
-  background-color: #414345;
-}
+ 
 
 
 .modal {
