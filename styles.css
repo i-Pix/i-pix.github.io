@@ -22,8 +22,9 @@ body {
   -webkit-animation-direction: alternate;
   animation-direction: alternate;
 }
+
 .meta{
-    font-size: 100px;
+    font-size-adjust: 180px;
     font-family:'Open Sans';
 }
 .heading_org{
@@ -52,7 +53,7 @@ nav {
 .logo {
   width: 50%;
   height: 100px;
-  
+  font-family: monospace;
 }
 
 .logo h1 {
@@ -125,7 +126,7 @@ section {
   font-weight: 600;
   color: white;
   text-transform: uppercase;
-  background: linear-gradient(57deg, #00c6a7, #1e4d92);
+  background: linear-gradient(57deg, #000000, #1e4d92);
   border-radius: 4px 4px 4px 4px;
   padding: 20px 35px;
 }
@@ -145,7 +146,7 @@ input[type="password"] {
 
 
 button {
-  background-color: #4caf50;
+  background-color: #232526;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
