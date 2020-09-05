@@ -1,2 +1,2 @@
-# i-pix.github.io
-Page website for Repository PRAC-1 under EDUTHON 2020
+# PRAC-1
+Here we are going to give our hack under EDUTHON 2020.
