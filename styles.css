@@ -15,11 +15,23 @@
   }
 }
 
+
 body {
   -webkit-animation: bgcolor 20s infinite;
   animation: bgcolor 10s infinite;
   -webkit-animation-direction: alternate;
   animation-direction: alternate;
+}
+.meta{
+    font-size: 100px;
+    font-family:'Open Sans';
+}
+.heading_org{
+  font-family: 'Grandstander';
+  font-size: 250px;
+  background: -webkit-linear-gradient(left, #12c2e9, #c471ed,#f64f59);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .site-header {
